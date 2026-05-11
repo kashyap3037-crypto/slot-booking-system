@@ -2,7 +2,6 @@
 
 Elite Sports 2.0 is a premium, real-time sports facility booking application designed for athletes and sports enthusiasts in Ahmedabad. The platform allows users to explore facilities for **Box Cricket**, **Football**, and **Pickleball**, and book their preferred slots seamlessly.
 
-![Elite Sports 2.0](https://images.unsplash.com/photo-1599586120429-48281b6f0ece?auto=format&fit=crop&w=1200&q=80)
 
 ## 🚀 Features
 
@@ -17,6 +16,8 @@ Elite Sports 2.0 is a premium, real-time sports facility booking application des
     - Action gallery showcasing the facilities.
 - **Player Reviews**: Integrated testimonial section for user feedback.
 - **Contact & Location**: Integrated Google Maps for easy navigation to the venue.
+
+![Elite Sports 2.0](https://images.unsplash.com/photo-1599586120429-48281b6f0ece?auto=format&fit=crop&w=1200&q=80)
 
 ## 🛠️ Tech Stack
 
